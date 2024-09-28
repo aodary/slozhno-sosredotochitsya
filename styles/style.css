@@ -51,11 +51,11 @@
 }
 
 .theme_dark .header__theme-menu-button:hover {
-  border: 1px solid var(--btn-color);
+  border: 1px solid rgba(255, 0, 112, 0.4);
 }
 
 .theme_light .header__theme-menu-button:hover {
-  border: 1px solid var(--butn-color);
+  border: 1px solid rgba(50, 49, 45, 0.4);
 }
 
 .header__theme-menu-button:focus {
@@ -194,8 +194,7 @@
   font-family: var(--main-font);
   font-size: 18px;
   color: var(--sub-title-color);
-  background-color: var(--font-background-color); 
-  
+  background-color: var(--font-background-color);  
 }
 
 .cover__content {
@@ -232,6 +231,7 @@
 
 .theme_dark .link__decore:hover {
   text-decoration: underline;
+  
   
 }
 
@@ -413,9 +413,14 @@
     width: 473px;
   }
 
+  .gallery {
+    margin-inline-end: 20px;
+    margin-inline-start: 22px;
+  }
+
   .picture__gallery {
-    padding-block-start: 17px;
-    gap: 21px;
+    padding-block-start: 22px;
+    gap: 19px;
   }
 
   .footer {
@@ -461,12 +466,12 @@
     margin-block-start: -23px;
   }
 
-  .custom:after {
+  .theme_dark .custom:after {
     top: 10px;
     right: 38px;
   }
 
-  .roll:after {
+  .theme_dark .roll:after {
     top: 18px;
     right: 19px;
   }
@@ -514,7 +519,7 @@
 
   .concentration__content {
     width: 355px;
-    margin-block-start: 21px;
+    margin-block-start: 20px;
     margin-inline-start: 0;
   }
 
