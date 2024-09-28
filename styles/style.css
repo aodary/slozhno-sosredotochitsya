@@ -98,7 +98,6 @@
   position: relative;
 }
 
-
 .decorated-zone::after {
   content: '';
   inline-size: 25px;
