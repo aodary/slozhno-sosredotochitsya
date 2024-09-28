@@ -40,3 +40,11 @@ a {
   font-size: inherit;
   line-height: inherit;
 }
+
+li {
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}
