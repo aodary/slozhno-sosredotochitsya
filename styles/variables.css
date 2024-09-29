@@ -10,7 +10,6 @@
   --font-color:  #db00ff;
   --color-base: #ff0070;
   --accent-color: #ff0070;
-  --background-image: url(../images/cover-image-dark.png);
   --background-color: #000028;
   --font-item-text-color: #f1b2ce;
   --title-color: #ff0070;
@@ -21,5 +20,8 @@
   --link-color: #ff0070;
   --shadow-title: #ff0070;
   --roll-color:#ff0070;
-
+  --hover-color: #ff99c6;
 }
+
+
+
