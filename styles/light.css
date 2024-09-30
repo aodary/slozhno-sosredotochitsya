@@ -41,14 +41,11 @@
   --link-color: #ff8dcb;
   --font-color: #ffc2e6;
   --shadow-title: #ff8dcb;
+  --rec-color:#FFF1F7;
   --roll-color:#FFF1F7;
-  --hover-color: #32312d66;
+  --hover-color: #353430;
   }
 
- .custom {
-    display: none;
-  }
-  
 }
 
 
